@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Tommy",
+    "edad": "3 año",
+    "animal": "Gato",
+    "color": "Negro",
+    "enfermedad": "Resfriado"
+  },
+  {
+    "nombre": "Fido",
+    "edad": "5 años",
+    "animal": "Perro",
+    "color": "Marrón",
+    "enfermedad": "Artritis"
+  },
+  {
+    "nombre": "Camilo",
+    "edad": "1 años",
+    "animal": "Castor",
+    "color": "Marrón",
+    "enfermedad": "Atropello"
+  }
+]
